@@ -1,0 +1,22 @@
+.funny-glassses{
+    position: relative;
+left:13.4em;
+bottom:6.5em
+}
+.luna{
+    position:sticky;
+    left:0em;
+}
+.top-hat{
+    z-index:1;
+}
+.pawpring{
+    position:fixed;
+    top:3em;
+    left:4em;
+}
+.bandana{
+    position:absolute;
+    top:11.5em;
+    left:6.7em;
+}
